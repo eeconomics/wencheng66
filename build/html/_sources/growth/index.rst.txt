@@ -1,4 +1,4 @@
-《经济增长》教学笔记
+经济增长教学笔记
 =================================
 
 
@@ -6,5 +6,5 @@
    :maxdepth: 2
    :caption: Contents:
 
-   01-preliminaries.rst
+   lec01_growth.md
   
