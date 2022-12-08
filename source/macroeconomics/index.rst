@@ -8,8 +8,6 @@
 
    宏观经济学课程大纲.md
    
-   01_开始的几句话
-   
    28_Why is macroeconomics so hard to teach?.md
 
    02_语义陷阱：经济学家的话术
