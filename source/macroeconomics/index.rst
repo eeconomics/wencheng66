@@ -6,7 +6,7 @@
    :maxdepth: 2
    :caption: Contents:
 
-   宏观经济学课程大纲.md
+   2023年春季宏观经济学原理课程大纲.md
    
    28_Why is macroeconomics so hard to teach?.md
 
