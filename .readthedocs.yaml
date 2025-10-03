@@ -1,6 +1,8 @@
 # Read the Docs 配置文件版本（必填，当前固定为 2）
 version: 2
-
+sphinx:
+  # Path to your Sphinx configuration file.
+  configuration: docs/conf.py
 # ------------------------------
 # 1. 构建环境配置（核心：指定 macOS 系统）
 # ------------------------------
