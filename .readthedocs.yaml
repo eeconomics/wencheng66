@@ -24,8 +24,8 @@ python:
     - method: pip
       path: .  # 项目根目录（即 setup.py 或 pyproject.toml 所在路径）
   # （可选）虚拟环境缓存：加速后续构建（macOS 下缓存逻辑与 Linux 一致）
-  cache:
-    - pip: true  # 缓存 pip 安装的依赖包
+  #cache:
+  #  - pip: true  # 缓存 pip 安装的依赖包
 
 # ------------------------------
 # 3. 文档构建配置（Sphinx 为例，MkDocs 见下方补充）
