@@ -6,7 +6,7 @@ version: 2
 # ------------------------------
 build:
   # 操作系统：明确指定为 macOS（可选值：ubuntu-22.04, macos-12, windows-2022）
-  os: macos-12
+  os: ubuntu-22.04
   # 构建工具：默认使用 "sphinx"（文档生成工具，若用 MkDocs 需改为 "mkdocs"）
   tools:
     # Python 版本：指定项目使用的 Python 版本（macOS 预装 Python，但建议显式指定避免兼容问题）
